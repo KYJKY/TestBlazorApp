@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module2", "Module2\Module2.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazingPizza", "BlazingPizza\BlazingPizza.csproj", "{426B5411-5F5A-4C68-890C-51B44E45AFD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module4", "Module4\Module4.csproj", "{436B9F1E-9020-401F-A340-052291BDE409}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module4", "Module4\Module4.csproj", "{436B9F1E-9020-401F-A340-052291BDE409}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
